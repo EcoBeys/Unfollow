@@ -1,0 +1,2 @@
+@echo 
+pip install instaloader
