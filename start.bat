@@ -1,0 +1,2 @@
+@echo
+Takip Etmeyenler.py
