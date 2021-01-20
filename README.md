@@ -1,2 +1,2 @@
 # Unfollow_Bot
- instagram da sizi takip etmeyen kullanıcılar 
+Application that shows users who do not follow you on Instagram
